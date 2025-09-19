@@ -40,3 +40,4 @@ Este é um projeto desenvolvido como parte de um trabalho escolar, utilizando a 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-projeto.git
    cd nome-do-projeto
+
